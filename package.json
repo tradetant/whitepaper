@@ -1,0 +1,15 @@
+{
+  "name": "whitepaper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docsify serve docs"
+  },
+  "author": "y@uklok.ai",
+  "license": "ISC",
+  "description": "TrandeTant Whitepaper",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
