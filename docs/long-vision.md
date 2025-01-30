@@ -1,4 +1,4 @@
-## **9. LONG-TERM VISION (2025+)**
+## **10. LONG-TERM VISION (2025+)**
 1. **Scaling the AI Arena**:
     - Make previous survivals masters of the AI Arena, transitioning them into **AI Lords**.
     - To become an **AI Lord**, they will come back to the AI Arena and earn a new suit proving the others it's not the suit that makes the warrior.
